@@ -1,0 +1,6 @@
+y = 0
+num = 5
+while (y < 5):
+    num = num + (2 * num)
+    y = y + 1
+print(num)

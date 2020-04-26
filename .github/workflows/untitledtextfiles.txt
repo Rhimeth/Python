@@ -1,0 +1,4 @@
+s=5 and n=36
+After loop: s=5 and n=36s=11 and n=3
+After loop: s=11 and n=3s=14 and n=0
+After loop: s=14 and n=0
